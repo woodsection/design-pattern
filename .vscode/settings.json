@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "strategy_pattern/concept",
+        "observer_pattern/concept"
+    ]
+}
