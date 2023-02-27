@@ -1,3 +1,4 @@
+package navigation;
 public class Car implements RouteStrategy {
     @Override
     public void buildRoute(String startingPoint, String destination) {

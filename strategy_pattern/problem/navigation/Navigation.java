@@ -1,3 +1,5 @@
+package navigation;
+
 public class Navigation{
     private RouteBehavior routeBehavior;
 

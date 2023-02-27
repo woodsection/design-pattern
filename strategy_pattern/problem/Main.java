@@ -1,3 +1,7 @@
+import navigation.Car;
+import navigation.Navigation;
+import navigation.PublicTransport;
+
 public class Main {
     public static void main(String[] args) {
         Navigation navigation = new Navigation(new Car());
